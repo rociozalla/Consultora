@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Consultora"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="consultora">
+				<Option output="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/cmake-build-debug/consultora" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 consultora"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="consultora/fast">
+				<Option output="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/cmake-build-debug/consultora" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 consultora/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto\ ayda/Consultora/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.cpp">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.h">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbol.cpp">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbol.h">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbolprioridad.cpp">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbolprioridad.h">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/lista.cpp">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/lista.h">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/main.cpp">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/servicios/gestorempresa.cpp">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/servicios/gestorempresa.h">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/utilidades/lectorempresas.cpp">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/utilidades/lectorempresas.h">
+			<Option target="consultora"/>
+		</Unit>
+		<Unit filename="/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

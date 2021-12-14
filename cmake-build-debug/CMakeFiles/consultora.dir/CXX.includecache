@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.cpp
+empresa.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.h
+string
+-
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbol.cpp
+arbol.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbol.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbol.h
+../dominio/empresa.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbolprioridad.cpp
+arbolprioridad.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbolprioridad.h
+iostream
+-
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbolprioridad.h
+../dominio/empresa.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.h
+../estructuras/lista.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/lista.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/lista.cpp
+lista.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/lista.h
+../dominio/empresa.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/lista.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/main.cpp
+iostream
+-
+fstream
+-
+estructuras/lista.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/lista.h
+dominio/empresa.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.h
+servicios/gestorempresa.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/servicios/gestorempresa.h
+utilidades/lectorempresas.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/utilidades/lectorempresas.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/servicios/gestorempresa.cpp
+gestorempresa.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/servicios/gestorempresa.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/servicios/gestorempresa.h
+../dominio/empresa.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.h
+../estructuras/lista.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/lista.h
+../estructuras/arbol.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbol.h
+../estructuras/arbolprioridad.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/estructuras/arbolprioridad.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/utilidades/lectorempresas.cpp
+lectorempresas.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/utilidades/lectorempresas.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/utilidades/lectorempresas.h
+../dominio/empresa.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/dominio/empresa.h
+

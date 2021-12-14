@@ -1,0 +1,3 @@
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rochi/Dropbox/Documents/sistemas/segundo/analisis_y_diseno_algoritmos_1/proycto ayda/Consultora/cmake-build-debug/CMakeFiles/consultora.dir
